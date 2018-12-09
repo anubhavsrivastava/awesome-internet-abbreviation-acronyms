@@ -98,7 +98,7 @@ Curated list of trendy internet abbreviation and acronyms used frequently in SMS
 | NTIM       |         Not that it Matters         | NVM        |         Never Mind         |
 | OATUS      |   On a totally Unrelated Subject    | OIC        |         Oh, I See          |
 | OMW        |              On My Way              | OTL        |        Out to Lunch        |
-| OTP        |            On the Phone             | P911       |        Parent Alert        |
+| OTP        |   On the Phone/One Time password    | P911       |        Parent Alert        |
 | PAL        |        Parents are Listening        | PAW        |    Parents are Watching    |
 | PIR        |           Parent in Room            | POS        |    Parent over Shoulder    |
 | PROP(S)    | Proper Respect / Proper Recognition | QT         |           Cutie            |
