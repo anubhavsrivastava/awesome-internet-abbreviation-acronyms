@@ -113,3 +113,11 @@ Curated list of trendy internet abbreviation and acronyms used frequently in SMS
 ## Gaming
 
 ## Dating
+
+## Contribution
+
+Suggestions and PRs are welcome!
+
+Please create issue or open PR request for contribution.
+
+---
